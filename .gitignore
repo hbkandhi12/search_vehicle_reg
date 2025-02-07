@@ -1,0 +1,10 @@
+.idea/
+venv/
+.DS_Store
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+allure-results/
+.env
+poetry.lock
+pyproject.toml
